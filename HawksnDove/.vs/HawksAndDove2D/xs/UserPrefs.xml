@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{6B20C06F-C481-1FA3-864D-9A5BE6C7DC5C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DataDiagram/Script/DD_DataDiagram.cs">
+    <Files>
+      <File FileName="Assets/DataDiagram/Script/DD_DataDiagram.cs" Line="325" Column="57" />
+      <File FileName="Assets/DataDiagram/Script/DD_DragBar.cs" />
+      <File FileName="Assets/DataDiagram/Script/DD_LineButtonsContent.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ce808e78-f93d-4953-99e4-1d621ab33c07" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
