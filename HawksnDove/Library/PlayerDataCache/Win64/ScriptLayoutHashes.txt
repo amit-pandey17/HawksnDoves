@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/Mayank PC/Desktop/Build/HawksAndDove2D.exe
+/Users/amitpandey/Documents/HawksnDoves/HawksnDove/hndBuild/HawksAndDove2D.exe
 SceneListBegin?
 Assets/Scenes/Board.unity
 SceneListEnd?
